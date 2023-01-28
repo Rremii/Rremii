@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Remi</h1>
 <h3 align="center">A passionate frontend/backend developer</h3>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/jayeshmann/jayeshmann/main/code.gif" alt="rremii" /> </p>
+<p align="left"> <img float="right" width="350" src="https://raw.githubusercontent.com/jayeshmann/jayeshmann/main/code.gif" alt="rremii" /> </p>
 
 - 💬 Ask me about **typescript,reactjs,rtk,sass,styled-components,nextjs,nodejs**
 
